@@ -89,7 +89,7 @@
 <div class="actor">
     <p class="point"
     <h3><u>Burak Ozcivit</u> <img src="../img/a7f5618ff072b16fcf5ec4eab9136110.jpg" alt="Burak" width="150"
-                                  height="150"></h3>
+                                  height="150" title="Burak Ozcivit"></h3>
     </p>
     <p class="apoint"<h5><i>Burak Ozcivit</i> <img src="../img/a7f5618ff072b16fcf5ec4eab9136110.jpg" alt="Burak"
                                                    width="120" height="120"></h5>
