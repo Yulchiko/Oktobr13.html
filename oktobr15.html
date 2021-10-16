@@ -6,61 +6,55 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
 
-<style>
-    .Burac {
-        text-align: center;
-        font-size: 20px;
-    }
+    <style>
+        .Burac {
+            text-align: center;
+            font-size: 20px;
+        }
 
-    .right {
-        width: 800px;
-        height: 300px;
-        margin-right: 10px;
-        text-align-last: center;
-        display: flex;
-        position: absolute;
-        z-index: 1;
-        right: inherit;
-        margin-top: 50px;
-        padding-top: 50px;
+        .right {
+            width: 800px;
+            height: 300px;
+            position: absolute;
+            z-index: 1;
+            margin-top: 50px;
+            padding-top: 50px;
 
-    }
+        }
 
-    .actor {
-        display: flex;
+        .actor {
+            display: flex;
             justify-content: center;
 
-    }
-
-    .rightimg {
-              position: fixed;
-        text-align-last: center;
-        padding: 150px;
-        float: right; /* Выравнивание по правому краю */
-        margin: 10px 0 10px 10px; /* Отступы вокруг картинки */
-        animation: rightimg;
-        animation-iteration-count: infinite;
-        animation-duration: 3s;
-    }
-
-
-    @keyframes rightimg {
-        0%, 20%, 40%, 50% {
-            opacity: 1;
-            transform: scale(1, 1) translateX(0);
         }
-        10%, 30% {
-            opacity: 1;
-            transform: scale(1.1, 1.1) translateX(0);
+
+        .rightimg {
+            position: fixed;
+
+            padding: 150px;
+            animation: rightimg;
+            animation-iteration-count: infinite;
+            animation-duration: 3s;
         }
-        100% {
-            opacity: 0;
-            transform: scale(1, 1) translateX(-900%);
-        }
-    }
 
 
-</style>
+        @keyframes rightimg {
+            0%, 20%, 40%, 50% {
+                opacity: 1;
+                transform: scale(1, 1) translateX(0);
+            }
+            10%, 30% {
+                opacity: 1;
+                transform: scale(1.1, 1.1) translateX(0);
+            }
+            100% {
+                opacity: 0;
+                transform: scale(1, 1) translateX(-900%);
+            }
+        }
+
+
+    </style>
 </head>
 <body>
 <div class="actor">
@@ -92,7 +86,8 @@
             He was born and raised in Istanbul, Turkey. He had a high-profile relationships with socialite Ceylan Capa
             before
             beginning to date TV actress Fahriye Evcen in 2014. In June 2017, he and Evcen married.
-            He was awarded the Best Actor in a Motion Picture at the Stars of the Year Awards organized by Yildiz Technical
+            He was awarded the Best Actor in a Motion Picture at the Stars of the Year Awards organized by Yildiz
+            Technical
             University 17th time in 2019.
             Father, with his wife Burak Özçivit of a son Karan (b. April 13, 2019).
         </h3>
