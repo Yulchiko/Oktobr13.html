@@ -1,0 +1,4 @@
+hello okten
+hello lina
+1
+hello world
