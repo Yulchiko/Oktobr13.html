@@ -1,0 +1,106 @@
+.actor {
+    width: 800px;
+    height: 800px;
+    flex-wrap: wrap;
+    position: absolute;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+
+    top: 0;
+    left: 0;
+    z-index: 1;
+    animation: move 3s linear alternate infinite;
+}
+
+@keyframes move {
+    0% {
+        top: 0;
+        left: 0;
+    }
+    100% {
+        top: 200px;
+        left: 200px;
+    }
+}
+
+.son {
+        border-radius: 10px;
+        border: 3px solid black;
+    margin: 0;
+    padding: 0;
+    row-gap: 2px;
+    flex-grow: 2px;
+
+}
+.a {
+    width: 800px;
+    height: 100px;
+    background: cyan;
+    align-self: flex-start;
+}
+
+
+.c {
+    width: 300px;
+    height: 200px;
+    background: mediumslateblue;
+display: flex;
+    align-self: flex-start;
+    flex-direction:column;
+    justify-content: flex-start;
+    margin-top: 100px;
+}
+.d {
+    width: 500px;
+    height: 300px;
+    background: #e5e10d;
+    align-self: baseline;
+    justify-content: flex-end;
+    transform: translate(+60%, -66%);
+    align-items: stretch;
+}
+.e {
+    width: 300px;
+    height: 300px;
+    background: #4dce4d;
+    align-self: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    transform: translate(+0%, -100%);
+}
+.f {
+    width: 500px;
+    height: 65%;
+    background: #4f544f;
+    align-self: flex-start;
+    justify-content: flex-end;
+    transform: translate(+59.5%, +50%);
+}
+.h{
+    width: 600px;
+    height: 200px;
+    background: #28ef96;
+    transform: translate(+0%, -150%);
+}
+.g {
+    width: 200px;
+    height: 200px;
+    background: #c57091;
+    align-self: flex-end;
+    justify-content: flex-end;
+    transform: translate(+292%, -1%);
+
+}
+
+.v {
+    width: 800px;
+    height: 80px;
+    background: #ccc309;
+    display: flex;
+    align-self: flex-end;
+    align-items: flex-end;
+    transform: translate(+0%, -360%);
+
+}
