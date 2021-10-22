@@ -1,0 +1,8 @@
+.box-type-0 big{
+    width: 10em;
+    height: 700px;
+    background: aquamarine;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
