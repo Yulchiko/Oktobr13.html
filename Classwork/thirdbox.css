@@ -1,0 +1,328 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-height: 1000px;
+}
+
+.first_box {
+    background: darkgray;
+    justify-content: flex-end;
+    align-items: flex-end;
+    display: flex;
+}
+
+.two_dashes {
+    width: 15px;
+    height: 2px;
+    background: mediumslateblue;
+    column-gap: 10px;
+    margin: 2px 15px 0 0;
+
+}
+
+.second_box {
+    background: darkgray;
+
+}
+
+.box_button {
+    justify-content: flex-start;
+    align-items: flex-start;
+    display: flex;
+}
+
+.button {
+    width: 50px;
+    height: 20px;
+    background: mediumslateblue;
+    border-radius: 6px;
+    margin-left: 15px;
+}
+
+.dashes_evening {
+    justify-content: flex-end;
+    align-items: flex-end;
+    display: flex;
+    flex-direction: row;
+}
+
+.evening {
+    align-content: flex-end;
+    display: flex;
+    justify-content: space-between;
+}
+
+.three_dashes {
+    width: 15px;
+    height: 2px;
+    background: mediumslateblue;
+    margin: 0 15px 5px 0;
+
+}
+
+.third_box {
+    background: blue;
+    align-content: flex-start;
+    justify-content: flex-start;
+    height: 120px;
+
+}
+
+.towels,
+.one_towels,
+.two_towels,
+.three_towels,
+.four_towels {
+    color: mediumslateblue;
+    text-align: left;
+    text-decoration: none;
+    margin-left: 25px;
+}
+
+.second_button {
+    align-content: flex-start;
+}
+
+.button_itself {
+    background: mediumslateblue;
+    width: 60px;
+    height: 15px;
+    border-radius: 5px;
+    margin: 10px 0 10px 30px;
+}
+
+.fourth_box {
+    background: darkgray;
+    display: flex;
+}
+
+.one_group_rectangles {
+    flex-direction: column;
+    display: inline-block;
+
+}
+
+.group_rectangles {
+    justify-content: flex-start;
+    margin-left: 30px;
+}
+
+.text_rectangles {
+    text-align: left;
+
+}
+
+.rectangles {
+    align-items: flex-start;
+    align-self: flex-start;
+
+}
+
+.one_rectangles {
+    background: mediumslateblue;
+    width: 100px;
+    height: 81px;
+    border-radius: 5px;
+    margin-top: 5px;
+
+}
+
+.five_small_squares {
+    flex-direction: row;
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 10px;
+}
+
+.small_squares {
+    background: mediumslateblue;
+    width: 8px;
+    height: 8px;
+    border-radius: 2px;
+    margin: 5px 2px 0 0;
+}
+
+.second_group_of_squares {
+    flex-direction: column;
+    display: inline-block;
+}
+
+.text_of_squares {
+    text-align: center;
+    margin-left: 10px;
+}
+
+.group_of_squares {
+    align-items: center;
+    align-self: center;
+    margin-left: 25px;
+}
+
+.five_large_squares {
+    justify-content: flex-start;
+
+
+}
+
+.large_squares {
+    background: mediumslateblue;
+    width: 40px;
+    height: 40px;
+    border-radius: 6px;
+    margin-top: 18px;
+
+}
+
+.third_group_text {
+    text-align: right;
+
+}
+
+.text_lorem {
+    text-decoration: none;
+    margin: 30px 25px 0 0;
+}
+
+.text_lorem ol {
+    margin-top: 25px;
+    text-align: center;
+}
+
+.fifth_box {
+    background: darkgray;
+    padding-top: 15px;
+
+}
+
+.here_and_the {
+    justify-content: center;
+
+}
+
+.text_fifth {
+    text-align: center;
+}
+
+.bigger_smaller {
+    justify-content: center;
+    display: flex;
+    margin-top: 5px;
+    column-gap: 5px;
+}
+
+.bigger {
+    background: mediumslateblue;
+    width: 120px;
+    height: 60px;
+
+
+}
+
+.smaller {
+    background: blue;
+
+    height: 60px;
+    width: 60px;
+}
+
+.sixth_box {
+    background: darkgray;
+    padding-top: 15px;
+    height: 120px;
+}
+
+.round_circles {
+    justify-content: center;
+}
+
+.text_sixth {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.round_options {
+    justify-content: space-around;
+    display: flex;
+}
+
+.three_circles {
+    background: mediumslateblue;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+
+.text_sale {
+    color: mediumslateblue;
+    font-size: 8px;
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.seventh_box {
+    background: blue;
+    position: relative;
+}
+
+.four_squares {
+    justify-content: space-around;
+}
+
+.only_squares {
+    align-content: flex-start;
+    display: flex;
+    column-gap: 5px;
+
+}
+
+.always_squares {
+    background: mediumslateblue;
+    width: 10px;
+    height: 10px;
+    margin: -30px 0 0 8px;
+    border-radius: 2px;
+
+
+}
+
+.dashes_four {
+    justify-content: space-around;
+}
+
+.only_dashes {
+    align-content: flex-start;
+    display: flex;
+    column-gap: 5px;
+}
+
+.dashes {
+    background: mediumslateblue;
+    width: 15px;
+    height: 2px;
+    margin: -11px 0 0 5px;
+}
+
+
+.text_final {
+    flex-direction: row;
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    margin-left: 200px;
+    text-align: center;
+
+}
+
+.text,
+.text_one,
+.text_two {
+    color: mediumslateblue;
+    font-size: 8px;
+    font-weight: 700;
+    margin: 0 10px 20px 0;
+
+}

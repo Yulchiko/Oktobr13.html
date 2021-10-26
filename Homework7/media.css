@@ -1,0 +1,42 @@
+@media screen and (max-width: 400px){
+    .three_element{
+        display: none;
+    }
+    .two_element img{
+        width: 50px;
+    }
+    .wrapper{
+        max-width: 340px;
+        padding: 0 10px;
+    }
+    .one_element{
+        padding-top: 20px;
+    }
+    .mobile{
+        display: flex;
+    }
+    .element_century{
+        text-align: center;
+    }
+    .second_elements h2{
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .second_elements h1{
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .element_century p::before,
+    .element_century p::after {
+        display: none;
+    }
+    .three_squares{
+        flex-direction: column;
+        align-items: center;
+    }
+
+
+
+
+
+}
