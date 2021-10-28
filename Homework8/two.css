@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    max-height: 800px;
+    background: url("../Homework7/bg.png") no-repeat center/cover;
+}
+
+.nav img {
+    height: 20px;
+}
+
+.nav-link {
+    font-size: 14px;
+    line-height: 19px;
+}
+
+.oven {
+    height: 70px;
+
+}
+
+.navbar {
+    display: none;
+!important;
+}
+
+.header__content {
+    height: 270px;
+}
+
+.header__p span {
+    height: 2px;
+    width: 30px;
+    background-color: #C4C4C4;
+}
+
+.Sunday {
+    flex-direction: row;
+!important;
+    padding-top: 124px;
+
+}
+
+.January {
+    flex-direction: row;
+!important;
+    column-gap: 30px;
+
+}
+
+.February {
+    width: 349px;
+    height: 328px;
+    background: #FFFFFF;
+
+}
+
+.February img {
+    width: 126px;
+    height: 104px;
+}
+
+.March {
+    font-size: 26px;
+    line-height: 30px;
+
+}
+
+.April,
+.April ol {
+    padding-left: 0;
+}
+
