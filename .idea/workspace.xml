@@ -9,18 +9,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4361d27-394d-4d89-ba95-e2aa4e91e4e9" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Classwork/thirdbox.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/trird.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/LOGO.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/Oktobr.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/bg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/gfh.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/mask.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/oktobr25.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework7/shopping-cart-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Air Colled Chillers Small - MRS Transparent3_3 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Ellipse 13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Ellipse 9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Filled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/IconHotToCold 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Logo 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Logo3black 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Multistage MSW-MSA - Refrigeration Systems 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Rectangle 147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (10).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (11).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (4).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (5).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (6).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (7).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (8).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector (9).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector 12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector 13.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/Vector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/asv4sabu 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/asv4sabu 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/img/rew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework9/year.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/Speed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/attempt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/fourthattempt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/media2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/red.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/speed2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/work.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Workspeed/work2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homework7/Oktobr.css" beforeDir="false" afterPath="$PROJECT_DIR$/Homework7/Oktobr.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +98,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="CSS" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework7" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Homework9/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -80,18 +111,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Homework9\img" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Homework7" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Classwork\20" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Classwork" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Homwork0" />
-      <recent name="C:\Users\Няшка\WebstormProjects\HTML2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Homework8" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Homework6" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Classwork\20" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2" />
       <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Classwork" />
-      <recent name="C:\Users\Няшка\WebstormProjects\HTML2\Homwork1" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -149,7 +180,13 @@
       <workItem from="1635106066198" duration="3266000" />
       <workItem from="1635167492633" duration="25128000" />
       <workItem from="1635198775627" duration="1879000" />
-      <workItem from="1635250587901" duration="5906000" />
+      <workItem from="1635250587901" duration="33806000" />
+      <workItem from="1635340432217" duration="10852000" />
+      <workItem from="1635356070995" duration="7351000" />
+      <workItem from="1635363550403" duration="289000" />
+      <workItem from="1635418798661" duration="26640000" />
+      <workItem from="1635494666106" duration="31283000" />
+      <workItem from="1635600320441" duration="2441000" />
     </task>
     <task id="LOCAL-00001" summary="imag +">
       <created>1634230896856</created>
@@ -347,7 +384,21 @@
       <option name="project" value="LOCAL" />
       <updated>1635094226845</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="new">
+      <created>1635256861897</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1635256861897</updated>
+    </task>
+    <task id="LOCAL-00030" summary="new">
+      <created>1635432423039</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1635432423039</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

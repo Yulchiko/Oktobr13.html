@@ -1,0 +1,82 @@
+@media screen and (max-width: 400px) {
+    .box_time,
+    .box_phone,
+    .box_button {
+        display: none;
+    }
+
+    .three_square {
+        flex-direction: column;
+        justify-content: center;
+        align-content: center;
+        flex-wrap: wrap;
+
+    }
+    .square{
+        margin-top: 20px;
+    }
+
+    .box_logo img {
+        width: 50px;
+        padding-top: 20px;
+
+    }
+
+    .wrapper {
+             padding: 0 10px;
+    }
+
+    .mobile {
+        display: flex;
+    }
+
+    .box_life h2 {
+        display: inline;
+        font-size: 30px;
+        line-height: 34px;
+        margin: 0 30px 0 94px;
+
+    }
+
+    .box_life h1 {
+        display: inline;
+        font-size: 40px;
+        line-height: 46px;
+        margin: 0 30px 0 123px;
+
+    }
+
+    .box_life p {
+        display: inline;
+            font-size: 15px;
+        line-height: 20px;
+        margin: 0 50px 0 80px;
+
+    }
+
+    .box_life p::before,
+    .box_life p::after {
+        display: none;
+    }
+
+    .box_century {
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+        align-content: center;
+        align-items: center ;
+
+
+    }
+    .box_VIEW{
+    justify-content: center;
+        flex-direction: column;
+        align-content: flex-end;
+        align-items:flex-end;
+        margin-right: 350px;
+
+    }
+
+
+    }
+

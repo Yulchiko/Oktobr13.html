@@ -1,0 +1,262 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Tinos', serif;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.first_box{
+    background: url("../Homework7/bg.png") no-repeat center/cover;
+    max-width: 1440px;
+    max-height: 800px
+}
+.box_today{
+    padding-top: 50px;
+    display: flex;
+
+}
+.box_time{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    column-gap:23px;
+    padding-left: 368px;
+}
+.box_text_one img{
+    width: 20px;
+    margin-right: 21px;
+
+
+}
+.box_text_one a{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+     color: #FFFFFF;
+    text-decoration: none;
+
+}
+.phone img{
+    width: 23px;
+    color: #FFFFFF;
+
+
+}
+.box_phone{
+
+    border-left: 2px solid #FFFFFF;
+
+}
+.box_text_two{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+   margin-left: 25px;
+}
+.box_button{
+    margin-left: 25px;
+}
+.mail_button{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+        color: #FFFFFF;
+    background: #FF7400;
+height: 47px;
+    width: 157px;
+    border: none;
+
+
+}
+.phone{
+    display: flex;
+    padding-left: 25px;
+
+}
+.telephone{
+    color: #FFFFFF;
+}
+.box_life h2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+    padding-left: 199px;
+
+}
+.box_life h1{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+    padding-left: 175px;
+}
+.box_life p{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding-left: 263px;
+}
+.box_century{
+    padding-top: 204px;
+}
+.box_VIEW{
+    padding-left: 356px;
+    display: flex;
+
+}
+
+.VIEW_MENU{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #FF7400;
+    height: 47px;
+    width: 137px;
+    border: none;
+    margin-top: 21px;
+    }
+
+.box_life p::before,
+.box_life p::after{
+  content: "";
+    display: inline-block;
+
+    width: 61px;
+    height: 2px;
+    background: dimgray;
+    margin: 0 8px 8px 8px;
+
+}
+.box_life p::before{
+    margin-bottom: 5px;
+}
+.box_life p::after{
+    margin-bottom: 5px;
+}
+.three_square{
+    display: flex;
+    text-align: center;
+column-gap: 30px;
+    justify-content: center;
+
+}
+.square{
+    width: 349px;
+    height: 328px;
+    background: #FFFFFF;
+    display: inline;
+    box-shadow:0 0 10px #9b9999;
+
+}
+.square img{
+    width: 111px;
+    height: 101px;
+    align-items: center;
+    align-content: center;
+    margin-top: 10px;
+
+}
+.text_final{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+      color: #2C2C2C;
+    display: inline-block;
+    margin-top: 15px;
+}
+.second_box{
+    padding-top: 124px;
+}
+.text_final span{
+    color: #BC9060;
+}
+.text_final_close{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+margin-top: 20px;
+    color: #656363;
+    overflow-wrap: break-word;
+}
+.mobile div{
+    width: 30px;
+        height: 3px;
+    background: #FF7400;
+    margin-left: 250px;
+
+
+
+}
+.mobile{
+    display: none;
+    flex-direction: column;
+    row-gap: 4px;
+    margin-top: 26px;
+
+
+
+}

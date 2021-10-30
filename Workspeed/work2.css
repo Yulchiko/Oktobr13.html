@@ -1,0 +1,252 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+    /*font-family: 'Roboto', sans-serif;*/
+    font-family: 'Tinos', serif;
+}
+
+ol, ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+.first_century{
+    background: url("../Homework7/bg.png") no-repeat center/cover;
+    max-width: 1440px;
+    max-height: 800px
+}
+.main_monday{
+    display: flex;
+    flex-direction: row;
+    column-gap: 23px;
+}
+.main_monday img{
+    padding-top: 50px;
+}
+.Tuesday{
+    display: flex;
+    padding-top: 74px;
+margin-left: 318px;
+}
+.monday a{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    text-decoration: none;
+margin-right:23px ;
+}
+.monday img{
+    Width: 20px;
+    Height: 17px;
+        border-right: 2px solid #FFFFFF;
+    padding: 0 21px 0 10px;
+}
+.wednesday{
+    display: flex;
+}
+.thursday_phone{
+    column-gap: 23px;
+}
+.thursday_phone img,
+.phone{
+    display: inline;
+}
+.phone{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+      color: #FFFFFF
+}
+.phone ol{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+.friday{
+padding-top: 74px;
+}
+.button{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+       color: #FFFFFF;
+    background: #FF7400;
+    border: none;
+    margin-left: 23px;
+    Width: 157px;
+    Height: 47px;
+}
+
+.sunday{
+    display: inline-block;
+    padding-top: 198px;
+}
+.sunday h2{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 57px;
+    color: #D67E35;
+    padding-left: 199px;
+}
+.sunday h1{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 80px;
+    line-height: 92px;
+    color: #D67E35;
+    padding-left: 175px;
+}
+
+.sunday p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 25px;
+    color: #FFFFFF;
+    padding-left: 271px;
+}
+.winter{
+margin-top: 21px;
+}
+.winter_button{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    background: #FF7400;
+    border: none;
+    margin-left: 359px;
+    Width: 137px;
+    Height: 47px;
+}
+
+.sunday p::before,
+.sunday p::after {
+    content: "";
+    width: 61px;
+    height: 2px;
+    background: #C4C4C4;
+    display: inline-block;
+}
+.sunday p::before{
+margin: 0 5px 5px 8px;
+}
+.sunday p::after {
+    margin: 0 5px 5px 8px;
+}
+.january{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    column-gap: 30px;
+
+}
+.february{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    text-align: center;
+    padding-top: 124px;
+    column-gap: 30px;
+
+}
+.march{
+    width: 349px;
+    height: 328px;
+    left: 166px;
+    top: 693px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1)
+
+}
+.april{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+       color: #2C2C2C;
+    display: inline-block;
+}
+.april span{
+    color: #BC9060;
+}
+.may{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+    text-align: center;
+    color: #656363;
+    margin-top: 20px;
+}
+.march img{
+    width: 126px;
+    height: 104px;
+}
+.mobile{
+    display: none;
+    justify-content: flex-end;
+    align-items: flex-end;
+
+
+}
+.mobile div{
+    width: 30px;
+    height: 3px;
+    background: #FF7400;
+
+}

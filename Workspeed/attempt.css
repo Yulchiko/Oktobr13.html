@@ -56,216 +56,182 @@ table {
     padding: 0 20px;
 }
 
-.element {
-    height: 100vh;
-    background: url("bg.png") no-repeat center/cover;
+.first_Century {
+    background: url("../Homework7/bg.png") no-repeat center/cover;
+    min-width: 1440px;
+    max-height: 800px;
 }
 
-.nav_element img {
-    width: 20px;
-
-}
-
-.one_element {
+.today{
     padding-top: 50px;
+    margin-left: 165px;
     display: flex;
-    justify-content: space-between;
-    align-items: center;
 }
+.today img{
 
-.nav {
+}
+.Yesterday {
     display: flex;
+    flex-direction: row;
+    align-content: center;
     column-gap: 23px;
+    padding-left: 268px;
+    align-items: flex-end;
+}
+
+.Month_one{
+    border-right: 2px solid #FFFFFF;
+    padding-right: 21px;
 
 }
 
-.nav_element a {
+.Month_one img{
+    width: 20px;
+    margin: 50px 0 0 1px;
+
+}
+.Month a {
+    font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 19px;
     color: #FFFFFF;
     text-decoration: none;
+
 }
 
-.three_element {
-    display: flex;
-    align-items: center;
-    height: 70px;
-    column-gap: 35px;
-}
-
-.mail_phone {
+.phone {
+    font-style: normal;
     font-weight: bold;
-    font-size: 10px;
+    font-size: 18px;
     line-height: 25px;
     color: #FFFFFF;
-    width: 155px;
-    border-left: 2px solid #FFFFFF;
-    padding-left: 15px;
-}
 
-.four_element {
-    display: flex;
-    align-items: center;
-    column-gap: 45px;
 
 }
 
-.mail_button {
+.phone ol {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding-left: 5px;
+}
+
+.Tuesday {
+    font-style: normal;
     font-weight: bold;
     font-size: 14px;
     line-height: 19px;
     color: #FFFFFF;
-    padding: 0 19px;
-    background-color: #FF7400;
-    width: 47px;
-    border: none;
-    cursor: move;
+    width: 157px;
+    height: 47px;
+    background: #FF7400;
 }
-
-.element_century {
-    color: #FF7400;
+.Wednesday{
+    padding-top: 204px;
+}
+.Thursday{
+    color: #D67E35;
+    font-style: normal;
     font-weight: normal;
-    margin-top: 203px;
-    max-width: 500px;
 }
-
-.element_century h2 {
+.Thursday h2{
     font-size: 50px;
     line-height: 57px;
-    margin-left: 24px;
+    padding-left: 199px;
 }
-
-.element_century h1 {
+.Thursday h1{
     font-size: 80px;
     line-height: 92px;
-}
+    padding-left: 175px;
 
-.element_century p {
+}
+.Thursday p{
     font-size: 18px;
     line-height: 25px;
-    color: #FFFFFF;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 12px;
+      color: #FFFFFF;
+    margin-left: 271px;
 }
+.Friday{
+    padding-top: 21px;
+    margin-left: 359px;
+}
+.Saturday{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+      color: #FFFFFF;
 
-.element_century p::before,
-.element_century p::after {
+    width: 137px;
+    height: 47px;
+       background: #FF7400;
+
+
+}
+.Thursday p::before,
+.Thursday p::after{
     content: "";
-    display: block;
     width: 61px;
     height: 2px;
-    background-color: darkgray;
-
-}
-
-.element_century p::before {
-    margin-right: 10px;
-}
-
-.element_century p::after {
-    margin-left: 10px;
-}
-
-.second_elements .mail_button {
-    margin-top: 35px;
-}
-
-.view_menu {
-    display: flex;
-    justify-content: center;
-
-}
-
-.mail_button {
-    width: 90px;
-    height: 40px;
-}
-
-.mobile {
-    width: 30px;
-    display: none;
-    flex-direction: column;
-    row-gap: 4px;
-
-}
-
-.mobile div {
-    height: 3px;
-    background: #FF7400;
-    border-radius: 50px;
-}
-
-.third_element {
-    left: 166px;
-    top: 693px;
-
-}
-
-.three_squares {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    column-gap: 30px;
-    padding-top: 183px;
-    text-align: center;
-}
-
-.squares {
-    width: 349px;
-    height: 328px;
     background: #FFFFFF;
-    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
-
-}
-
-.squares img {
-    align-items: center;
-    /*padding-left: 114px;*/
-    width: 126px;
-    height: 104px;
-    left: 280px;
-    top: 728px;
-    /*margin: 30px 100px;*/text-align: center;
-}
-
-.text {
-    font-style: normal;
-    font-weight: normal;
-    font-size: 26px;
-    line-height: 30px;
-    color: #2C2C2C;
-text-align: center;
-    margin-bottom: 10px;
-}
-
-.text span {
-    color: #BC9060;
-    font-style: normal;
-    font-weight: normal;
-    font-size: 26px;
-    line-height: 30px;
-    text-align:center;
-    margin-bottom: 14px;
-
-
-}
-
-.text, .text span {
     display: inline-block;
 
-    margin-top: 10px;
-}
 
-.text h2 {
+}
+.Thursday p::before{
+   margin: 0 8px 5px 8px;
+}
+.Thursday p::after{
+    margin: 0 8px 5px 8px;
+}
+.Sunday{
+    display: flex;
+   padding-top: 124px;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+.January{
+    display: flex;
+   justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 30px;
+    text-align: center;
+    /*padding-left: 166px;*/
+}
+.February{
+    width: 349px;
+    height: 328px;
+    left: 166px;
+    top: 693px;
+    background: #FFFFFF;
+    box-shadow: 10px 10px 40px 20px rgba(0, 0, 0, 0.1);
+}
+.February img{
+    width: 126px;
+    height: 104px;
+}
+.March{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 30px;
+       color: #2C2C2C;
+    display: inline-block;
+}
+.March span{
+    color: #BC9060;
+}
+.April{
     font-style: normal;
     font-weight: normal;
     font-size: 26px;
     line-height: 30px;
     text-align: center;
     color: #656363;
-    padding-left: 10px;
-    margin-top: 5px;
+    margin-top: 20px;
 }

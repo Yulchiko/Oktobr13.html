@@ -1,0 +1,68 @@
+@media screen and (max-width: 400px) {
+    .Tuesday,
+    .wednesday,
+    .friday {
+        display: none;
+    }
+
+    .main_monday img {
+        width: 50px;
+        padding-bottom: 20px;
+    }
+
+    .february {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .sunday h2 {
+        display: inline;
+        font-size: 30px;
+        line-height: 34px;
+        margin: 0 30px 0 -146px;
+
+    }
+
+    .sunday h1 {
+        display: inline;
+        font-size: 40px;
+        line-height: 46px;
+        margin: 0 30px 0 -125px;
+    }
+
+    .sunday p {
+        display: inline;
+        font-size: 15px;
+        line-height: 20px;
+        margin: 0 30px 0 -113px;
+    }
+
+    .mobile {
+        display: flex;
+        flex-direction: column;
+        row-gap: 2px;
+        margin: 0 30px 0 298px;
+    }
+    .sunday p::before,
+    .sunday p::after {
+        display: none;
+    }
+
+
+    }
+    .winter_button {
+        margin: 0 30px 0 124px;
+
+    }
+
+
+
+
+}
+
+
+
+
+
+

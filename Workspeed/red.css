@@ -1,0 +1,40 @@
+@media screen and (min-width: 400px){
+    .d-sm-none {
+            display: none;
+
+    )
+    }
+    .wrapper{
+        max-width: 360px;
+        padding: 0 10px;
+    }
+    .February{
+        flex-direction: column;
+        align-content: center;
+        row-gap: 30px;
+    }
+    .Thursday::before ,
+    .Thursday::after{
+        display: none;
+
+    )
+
+    }
+    .display-5{
+        font-size: 30px;
+        line-height: 34px;
+    }
+    .display-2{
+        font-size: 40px;
+        line-height: 46px;
+
+    }
+    .Thursday{
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .today img{
+        width: 50px;
+    }
+
+}

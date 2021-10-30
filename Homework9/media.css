@@ -1,0 +1,193 @@
+@media screen and (max-width: 400px) {
+    .first-screen-left h1 {
+        font-size: 30px;
+        line-height: 32px;
+        text-align: center;
+        letter-spacing: -0.4px;
+
+    }
+
+    .first-screen-right img {
+        width: 354px;
+        height: 355px;
+    }
+
+    .first-screen-left {
+        display: inline;
+
+
+    }
+    .century{
+        margin: 0;
+    }
+
+    .winter {
+        display: flex !important;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .month {
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+    .evening,
+    .march {
+        font-size: 16px;
+        line-height: 32px;
+        text-align: center;
+        letter-spacing: -0.4px;
+
+    }
+
+    .year h2 {
+        margin-top: 39px;
+    }
+
+    .monday {
+
+        margin: 0;
+        padding: 0;
+    }
+
+    .year {
+        Width: 390px;
+        Height: 575px;
+    }
+
+    .month img {
+        Width: 338px;
+        Height: 505px;
+        margin: 0;
+        padding: 0;
+    }
+
+    .february {
+        justify-content: center;
+        position: relative;
+
+    }
+
+    .second-screen-text,
+    .second-screen-text-one {
+        font-size: 17px;
+        line-height: 32px;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    .second-screen-right {
+        padding-top: 50px;
+        margin-right: 5px;
+
+    }
+
+    .second-screen-right img {
+        width: 360px;
+        margin: 0;
+    }
+
+    .second-screen-left {
+        padding-top: 0;
+        position: absolute;
+        display: block;
+        margin-top: 250px;
+        text-align: center;
+    }
+
+    .august {
+        display: inline-block;
+
+    }
+
+    .april {
+        padding-top: 600px;
+
+    }
+
+    .september a {
+        font-size: 14px;
+        line-height: 20px;
+
+        letter-spacing: -0.4px;
+
+        color: #45494F;
+    }
+
+    .september {
+        width: 359px;
+        height: 136px;
+    }
+
+    .december {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .tuesday ol {
+        font-size: 14px;
+        line-height: 20px;
+    }
+
+    .saturday img {
+        Width: 360px;
+        Height: 479px;
+    }
+    .deadline{
+        width: 359px;
+        height: 64px;
+    }
+    .sixteenth{
+        flex-direction: row;
+        align-items: center;
+               display: flex;
+    }
+    .sixteenth{
+        font-size: 26px;
+        line-height: 43px;
+        margin-top: 169px;
+
+    }
+    .footer{
+                margin: 0;
+    }
+    .seventeenth{
+
+        text-align: center;
+        margin-top: 60px;
+    }
+
+    .menu{
+      text-align: center;
+        padding: 0;
+        margin-top: 250px;
+    }
+    .menu img{
+        padding: 0;
+    }
+    .look{
+        padding: 0;
+        text-align: left;
+    }
+    .little_one,
+    .little_two,
+    .little_three,
+    .little_four{
+        padding: 0;
+        display: inline-block;
+    }
+    .little_two{
+        margin-top: 110px;
+    }
+    .little_three{
+        margin-top: 220px;
+    }
+    .little_four{
+        margin-top: 350px;
+    }
+
+
+
+}
