@@ -1,3 +1,162 @@
 @media screen and (max-width: 360px){
-    .modal
-}
+    .navbar-brand img{
+        display: none;
+    }
+    .april{
+
+        padding-left: 150px;
+        position: absolute;
+
+    }
+    .navbar{
+        padding: 0;
+    }
+    .collapse{
+padding-right: 100px;
+        position: relative;
+    }
+    .month{
+                padding: 0;
+        position: relative;
+
+    }
+    .frog img{
+        width:135px;
+        height: 47px;
+padding: 0;
+
+    }
+    .tuesday img{
+        position: absolute;
+        margin: 61px -46px;
+
+    }
+    .monday{
+        text-align: end;
+        position: absolute;
+        left: 180px;
+    }
+    .monday ol{
+        font-size: 10px;
+        line-height: 12px;
+                text-decoration-line: underline;
+        color: #0F2438;
+    }
+    .form-control{
+
+    }
+    .beauteous{
+        display: flex;
+    }
+    .form-control {
+        width: 203px;
+        height: 34px;
+    }
+    .ocean{
+        margin-top: 70px;
+    }
+    .beautiful{
+        width: 34px;
+        height: 34px;
+
+
+    }
+    .beautiful img{
+        width: 12px;
+        height: 12px;
+    }
+    .still{
+        margin: -34px 41px;
+    }
+    .cheerful{
+        padding: 0;
+        justify-content: center;
+        position: relative;
+
+    }
+    .cheerful img{
+        width: 290px;
+        height: 195px;
+    }
+    .comely{
+        font-size: 16px;
+        line-height: 19px;
+        transform: translate(9px, -32px);
+    }
+    .comely ol{
+        font-size: 10px;
+        line-height: 12px;
+    }
+    .darling{
+        width: 124px;
+        height: 34px;
+    }
+    .dishy img{
+        width: 68px;
+        height: 12px;
+        transform: translate(-384px, -98px);
+    }
+    .delikate img{
+        width: 131px;
+        height: 111px;
+        transform: translate(-270px, 18px);
+    }
+    .cute s{
+        font-size: 14px;
+        line-height: 16px;
+
+    }
+    .charming{
+        display: flex;
+        flex-direction: column;
+
+    }
+    .eyeful{
+        padding: 0;
+        margin-top: 195px;
+
+    }
+    .pleasant{
+        transform: translate(7px, 360px);
+        position: relative;
+    }
+    .lily    {
+        width: 320px;
+        height: 180px;
+        background: #FFFFFF;
+        border: 1px solid #E1E5F8;
+        box-sizing: border-box;
+        border-radius: 6px;
+          position: absolute;
+        padding: 0;
+        margin: 0;
+        display: ;
+    }
+    .daisy{
+        width: 74px;
+        height: 97px;
+        position: absolute;
+
+    }
+    .rose{
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+        padding: 0;
+    }
+    .azalea{
+        margin-top: 200px;
+        padding: 0;
+    }
+    .sunflower{
+        width: 164px;
+        height: 36px;
+    }
+    .dandelion{
+        width: 82px;
+        height: 36px;
+    }
+
+
+
+    }

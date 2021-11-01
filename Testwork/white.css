@@ -56,7 +56,7 @@ table {
     padding: 0 20px;
 }
 
-.modal-header{
+.modal-header {
     width: 555px;
     height: 90px;
     background: #FFFFFF;
@@ -64,20 +64,23 @@ table {
     box-sizing: border-box;
     border-radius: 10px;
 }
-.today{
+
+.today {
     font-size: 14px;
     line-height: 16px;
     color: #0F2438;
 
 }
-.modal-title h4{
+
+.modal-title h4 {
     font-style: normal;
     font-weight: 500;
     font-size: 20px;
     line-height: 23px;
     color: #005BB9;
 }
-.main{
+
+.main {
     font-weight: 500;
     font-size: 14px;
     line-height: 16px;
@@ -87,10 +90,563 @@ table {
 
 }
 
-.navbar-brand{
+.navbar-brand {
     padding-left: 100px;
 }
-.footer{
-  text-align: right;
+
+.footer {
+    text-align: right;
     align-content: flex-end;
 }
+
+.said {
+    padding-left: 100px;
+}
+
+.evening {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    padding-top: 45px;
+    column-gap: 30px;
+
+}
+
+.month {
+    padding-left: 70px;
+}
+
+.trout {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    color: #0F2438;
+    padding-left: 70px;
+}
+
+.work {
+    text-align: end;
+    vertical-align: top;
+
+}
+
+.work img {
+    width: 32px;
+    height: 32px;
+
+
+}
+
+.logo {
+    vertical-align: top;
+
+
+}
+
+.logo img {
+    width: 22px;
+    height: 32px;
+
+
+}
+
+
+.tuesday img {
+    width: 204px;
+    height: 30px;
+
+}
+
+.monday {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    color: #0F2438;
+
+}
+
+.monday ol {
+    font-size: 12px;
+    line-height: 14px;
+
+
+}
+
+.still {
+    padding-left: 30px;
+}
+
+.snail {
+    width: 101px;
+    height: 53px;
+    background: #005BB9;
+    border-radius: 0 6px 6px 0;
+}
+
+.coral {
+    width: 164px;
+    height: 53px;
+    background: #005BB9;
+    border-radius: 6px;
+    text-align: left;
+
+}
+
+.ocean {
+    padding-left: 80px;
+    margin-top: 15px;
+}
+
+.salmon {
+    text-align: center;
+    margin: 0 0 40px 50px;
+    position: absolute;
+
+
+}
+
+.beauteous {
+    width: 34px;
+    height: 34px;
+    background: url("img/5.jpg") no-repeat center/cover;
+    border-radius: 5px;
+}
+
+
+.form-control {
+    max-width: 323px;
+    height: 53px;
+    background: #F4F5FA;
+    border-radius: 6px 0 0 6px;
+}
+
+.while {
+    margin: 10px 10px;
+    width: 20px;
+    height: 3px;
+    background: #FFFFFF;
+    position: relative;
+
+}
+
+.while::before,
+.while::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #FFFFFF;
+    display: flex;
+    column-gap: 10px;
+    position: absolute;
+}
+
+.while::after {
+    margin-top: 5px;
+
+}
+
+.while::before {
+    margin-top: -5px;
+
+}
+
+.appealing {
+    width: 311px;
+    height: 22px;
+    margin: 0 0 20px 30px;
+}
+
+.beautiful {
+    width: 34px;
+    height: 34px;
+    background: url("img/4.jpg") no-repeat center/cover;
+}
+
+.comely {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 42px;
+    color: #0A1A2C;
+    transform: translate(87px, 15px);
+}
+
+.cute {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 37px;
+    line-height: 43px;
+    color: #005BB9;
+}
+
+.darling {
+    width: 160px;
+    height: 49px;
+    border-radius: 6px;
+    background: url("img/6.jpg") no-repeat center/cover;
+    margin-top: 20px;
+}
+
+.cute s {
+    font-size: 22px;
+    line-height: 26px;
+    color: #C2C5DA;
+}
+
+.text-left ol {
+    font-size: 20px;
+    line-height: 23px;
+    color: #717171;
+    margin-top: 15px
+}
+
+.cheerful {
+    flex-wrap: wrap;
+    padding-left: 90px;
+    position: relative;
+    margin-top: 25px;
+
+}
+
+.cheerful img {
+    max-width: 800px;
+    border-radius: 25px;
+    position: absolute;
+
+}
+
+.text-left {
+    position: absolute;
+    margin-right: 100px;
+    top: 40px;
+}
+
+.dishy {
+    position: absolute;
+
+}
+
+.dishy img {
+    margin: 276px 354px;
+
+}
+
+.delikate img {
+    max-width: 380px;
+    position: absolute;
+    left: 450px;
+}
+
+.dreamboat-left img,
+.dreamboat-right img {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+
+
+}
+
+.dreamboat-left img {
+    margin-top: 140px;
+}
+
+.dreamboat-right img {
+    margin: 140px 0 0 750px;
+}
+
+.elegant-left img {
+    margin: 151px 15px;
+
+}
+
+.elegant-right img {
+    margin: 151px 0 0 766px;
+}
+
+.elegant-left img,
+.elegant-right img {
+    Width: 10px;
+    Height: 18px;
+    position: absolute;
+}
+
+.eyeful {
+    position: absolute;
+    padding-left: 900px;
+}
+
+.fair {
+    width: 336px;
+    height: 150px;
+    background: #F4F5FA;
+    border-radius: 10px;
+
+}
+
+.good_looking {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    transform: translate(9px, -32px);
+    color: #0F2438;
+
+}
+
+.lovely {
+    padding-right: 50px;
+}
+
+.lovely img {
+    width: 30%;
+    height: 30%;
+    padding-top: 30px;
+
+
+}
+
+.nice {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 23px;
+    color: #0A1A2C;
+    display: table-cell;
+    transform: translate(121px, -66px);
+}
+
+.nice_one {
+    transform: translate(32px, -66px);
+}
+
+.yet {
+    font-size: 12px;
+    line-height: 14px;
+    color: #525252;
+    transform: translate(120px, -54px);
+}
+
+.graceful {
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFB800;
+    text-align: left;
+    transform: translate(0, -77px);
+}
+
+.graceful_one {
+    font-size: 20px;
+    line-height: 23px;
+    color: #FFB800;
+    text-align: left;
+    transform: translate(-20px, -36px);
+}
+
+.graceful_one s,
+.graceful s {
+    font-size: 16px;
+    line-height: 19px;
+    color: #C2C5DA;
+    clear: none;
+    margin-right: 10px;
+
+}
+
+
+.handsome_one {
+    width: 57px;
+    height: 49px;
+    background: url("img/12.jpg") no-repeat center/cover;
+    border-radius: 5px;
+    transform: translate(295px, -48px);
+}
+
+.handsome {
+    width: 57px;
+    height: 49px;
+    background: url("img/12.jpg") no-repeat center/cover;
+    border-radius: 5px;
+    transform: translate(78px, 0);
+}
+
+.good_looking_one {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    transform: translate(9px, 127px);
+    color: #0F2438;
+}
+
+.pleasant {
+    width: 320px;
+    height: 60px;
+    background: url("img/13.jpg") no-repeat center/cover;
+    position: relative;
+}
+
+.rose {
+    align-self: center;
+    align-content: center;
+    row-gap: 30px;
+    padding-left: 100px;
+
+}
+
+.lily,
+.peony,
+.tulip {
+    width: 331px;
+    height: 184px;
+    background: #FFFFFF;
+    border: 1px solid #E1E5F8;
+    box-sizing: border-box;
+    border-radius: 6px;
+    align-content: center;
+    margin-left: 30px;
+    position: relative;
+}
+
+.pleasing {
+    padding-top: 320px;
+}
+
+.daisy img {
+    width: 154px;
+    height: 202px;
+    transform: translate(176px, -93px);
+    position: absolute;
+}
+
+.orchid {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    color: #0A1A2C;
+    transform: translate(44px, 7px);
+}
+
+.aster,
+.aster ol {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0A1A2C;
+    margin-top: 20px;
+    padding-left: 15px;
+}
+
+.gladiolus {
+    transform: translate(-17px, 0);
+    position: absolute;
+}
+
+.iris {
+    width: 86px;
+    height: 26px;
+    background: #005BB9;
+    border-radius: 4px;
+    margin: 10px 30px;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+}
+
+.dahlia {
+    font-size: 24px;
+    line-height: 28px;
+    color: #0A1A2C;
+    padding-top:10px ;
+    position: absolute;
+
+
+}
+
+.dahlia ol {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0A1A2C;
+    text-align: left;
+
+}
+.calla img{
+    transform: translate(95px,-109px);
+    position: absolute;
+
+}
+.violet{
+    margin-top: 20px;
+    text-align: left;
+}
+.carnation{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+      color: #0A1A2C;
+    padding-top:10px ;
+    transform: translate(-80px,0);
+    text-align:left;
+}
+.cyclamen ol{
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    color: #0A1A2C;
+    text-align: left;
+    margin-top: 5px;
+
+}
+.cyclamen{
+    margin-top: 20px;
+    text-align: left;
+}
+
+.gerbera img{
+    transform: translate(123px,-149px);
+    position: relative;
+}
+.daffodil img{
+    position: absolute;
+    transform: translate(314px,-275px);
+}
+.azalea{
+   padding-right: 80px;
+    margin-top: 20px;
+    position: revert;
+}
+.sunflower{
+    width: 241px;
+    height: 55px;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 23px;
+position: absolute;
+    margin-right: 80px;
+    /*transform: translate(105px,-0px)*/
+
+}
+.dandelion{
+    width: 123px;
+    height: 55px;
+    border: 2px solid #005BB9;
+       border-radius: 6px;
+    font-size: 20px;
+    line-height: 23px;
+position: absolute;
+    margin-right: 80px;
+    /*transform: translate(125px,-0px)*/
+}
+.snowdrop{
+    width: 229px;
+    height: 55px;
+    border: 2px solid #005BB9;
+       border-radius: 6px;
+    font-size: 20px;
+    line-height: 23px;
+position: absolute;
+    margin-right: 80px;
+    /*transform: translate(145px,-0px)*/
+
+}
+

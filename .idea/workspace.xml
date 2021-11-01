@@ -9,19 +9,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4361d27-394d-4d89-ba95-e2aa4e91e4e9" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Maketgrid/grid.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Maketgrid/maket.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/clock.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/wat.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/z.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/media.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/white.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/03 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/Chevron Right 1 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/Chevron Right 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/Ellipse 3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/Ellipse 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/Ellipse 6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/Ellipse 8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector (3).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1) 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 7 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/circles left.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Testwork/img/circles right.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework9/bootstrap.html" beforeDir="false" afterPath="$PROJECT_DIR$/Homework9/bootstrap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testwork/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/media.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testwork/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testwork/white.css" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/white.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,7 +185,11 @@
       <workItem from="1635363550403" duration="289000" />
       <workItem from="1635418798661" duration="26640000" />
       <workItem from="1635494666106" duration="31283000" />
-      <workItem from="1635600320441" duration="13751000" />
+      <workItem from="1635600320441" duration="25483000" />
+      <workItem from="1635684280524" duration="19764000" />
+      <workItem from="1635701249308" duration="9817000" />
+      <workItem from="1635742002359" duration="25846000" />
+      <workItem from="1635777528128" duration="5493000" />
     </task>
     <task id="LOCAL-00001" summary="imag +">
       <created>1634230896856</created>
@@ -385,7 +408,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635602844679</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="new">
+      <created>1635615232787</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1635615232787</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
