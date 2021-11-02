@@ -56,40 +56,6 @@ table {
     padding: 0 20px;
 }
 
-.modal-header {
-    width: 555px;
-    height: 90px;
-    background: #FFFFFF;
-    border: 1px solid #005BB9;
-    box-sizing: border-box;
-    border-radius: 10px;
-}
-
-.today {
-    font-size: 14px;
-    line-height: 16px;
-    color: #0F2438;
-
-}
-
-.modal-title h4 {
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 23px;
-    color: #005BB9;
-}
-
-.main {
-    font-weight: 500;
-    font-size: 14px;
-    line-height: 16px;
-    display: flex;
-    align-items: center;
-    color: #005BB9;
-
-}
-
 .navbar-brand {
     padding-left: 100px;
 }
@@ -438,7 +404,7 @@ table {
     line-height: 23px;
     color: #FFB800;
     text-align: left;
-    transform: translate(-20px, -36px);
+    transform: translate(-12px, -72px);
 }
 
 .graceful_one s,
@@ -457,7 +423,7 @@ table {
     height: 49px;
     background: url("img/12.jpg") no-repeat center/cover;
     border-radius: 5px;
-    transform: translate(295px, -48px);
+    transform: translate(85px, 7px);
 }
 
 .handsome {
@@ -556,7 +522,7 @@ table {
     font-size: 24px;
     line-height: 28px;
     color: #0A1A2C;
-    padding-top:10px ;
+    padding-top: 10px;
     position: absolute;
 
 
@@ -570,25 +536,29 @@ table {
     text-align: left;
 
 }
-.calla img{
-    transform: translate(95px,-109px);
+
+.calla img {
+    transform: translate(95px, -109px);
     position: absolute;
 
 }
-.violet{
+
+.violet {
     margin-top: 20px;
     text-align: left;
 }
-.carnation{
+
+.carnation {
     font-weight: 500;
     font-size: 24px;
     line-height: 28px;
-      color: #0A1A2C;
-    padding-top:10px ;
-    transform: translate(-80px,0);
-    text-align:left;
+    color: #0A1A2C;
+    padding-top: 10px;
+    transform: translate(-80px, 0);
+    text-align: left;
 }
-.cyclamen ol{
+
+.cyclamen ol {
     font-weight: 500;
     font-size: 14px;
     line-height: 24px;
@@ -597,56 +567,288 @@ table {
     margin-top: 5px;
 
 }
-.cyclamen{
+
+.cyclamen {
     margin-top: 20px;
     text-align: left;
 }
 
-.gerbera img{
-    transform: translate(123px,-149px);
+.gerbera img {
+    transform: translate(123px, -149px);
     position: relative;
 }
-.daffodil img{
+
+.daffodil img {
     position: absolute;
-    transform: translate(314px,-275px);
+    transform: translate(314px, -275px);
 }
-.azalea{
-   padding-right: 80px;
+
+.button_flowers {
+    margin-right: 80px;
+
+}
+
+.azalea {
     margin-top: 20px;
-    position: revert;
+    justify-content: center;
+
 }
-.sunflower{
+
+.sunflower {
     width: 241px;
     height: 55px;
     border-radius: 6px;
     font-size: 20px;
     line-height: 23px;
-position: absolute;
-    margin-right: 80px;
-    /*transform: translate(105px,-0px)*/
-
+    margin-right: 20px;
+    background: #005BB9;
 }
-.dandelion{
+
+.dandelion {
     width: 123px;
     height: 55px;
     border: 2px solid #005BB9;
-       border-radius: 6px;
+    border-radius: 6px;
     font-size: 20px;
     line-height: 23px;
-position: absolute;
-    margin-right: 80px;
-    /*transform: translate(125px,-0px)*/
+    margin-right: 20px;
+    color: #005BB9;
 }
-.snowdrop{
+
+.snowdrop {
     width: 229px;
     height: 55px;
     border: 2px solid #005BB9;
-       border-radius: 6px;
+    border-radius: 6px;
     font-size: 20px;
     line-height: 23px;
-position: absolute;
-    margin-right: 80px;
-    /*transform: translate(145px,-0px)*/
+    margin-right: 20px;
+    color: #005BB9;
+}
+
+.water-lilly {
+    padding-left: 120px;
+}
+
+.bluebell {
+    width: 276px;
+    height: 235px;
+}
+
+.hyacinth {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFB800;
+    display: flex;
+}
+
+.hyacinth ol {
+    font-size: 14px;
+    line-height: 16px;
+    color: #B0B0B0;
+}
+
+.cornflower {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 25px;
+    color: #0A1A2C;
+    display: flex;
 
 }
 
+.nasturtium {
+    width: 39px;
+    height: 20px;
+    background: #FFB800;
+    border-radius: 2px;
+}
+
+.plumeria {
+    font-size: 13px;
+    line-height: 15px;
+    color: #000000;
+    display: flex;
+    padding-top: 40px;
+}
+
+.plumeria ol {
+    font-size: 13px;
+    line-height: 15px;
+    text-decoration-line: underline;
+    color: #005BB9;
+    padding-left: 3px;
+
+
+}
+
+.lilac {
+    width: 160px;
+    height: 49px;
+    background: url("img/6.jpg") no-repeat center/cover;
+    border-radius: 6px;
+
+}
+
+.nasturtium {
+    width: 39px;
+    height: 20px;
+    border-radius: 6px;
+
+}
+
+.hydrangea {
+    padding-top: 20px;
+    row-gap: 5px;
+    align-items: center;
+
+}
+
+.hydrangea_flowers {
+    transform: translate(0px, -20px);
+    padding-top: 20px;
+    row-gap: 5px;
+    align-items: center;
+}
+
+.anemone {
+    margin-left: 10px;
+
+}
+
+.clematis {
+    padding-left: 10px;
+}
+
+.cowslip {
+    align-items: center;
+}
+
+.chamomile {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.marigold {
+    align-items: start;
+    margin-right: 20px;
+
+}
+
+.plumeria_flower {
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFB800;
+    display: flex;
+    padding-top: 48px;
+
+}
+
+.plumeria_flower ol {
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: line-through;
+    color: #C2C5DA;
+    padding-left: 3px;
+}
+
+.camellia {
+    align-items: start;
+    margin: 40px 20px;
+
+}
+
+.flowers_end {
+    font-size: 16px;
+    line-height: 19px;
+    color: #005BB9;
+    width: 187px;
+    height: 49px;
+    background: #FFFFFF;
+    border: 2px solid #005BB9;
+    border-radius: 6px;
+
+}
+
+.beech {
+    row-gap: 30px;
+
+}
+
+.pansy {
+    transform: translate(587px, -20px);
+}
+
+.acacia {
+    margin-right: -93px;
+}
+
+.elder {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 28px;
+    color: #000000;
+    text-align: left;
+    padding-top: 50px;
+    transform: translate(42px, -0px)
+
+}
+
+.oak {
+    font-size: 16px;
+    line-height: 19px;
+    width: 106px;
+    height: 22px;
+    background: #0C1A2A;
+    border-radius: 4px;
+    margin-bottom: 15px;
+
+}
+
+.willon,
+.willon ol {
+    font-size: 16px;
+    line-height: 19px;
+    text-decoration-line: underline;
+    color: #005BB9;
+    margin-bottom: 15px;
+}
+
+.walnut {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    color: #242424;
+    padding-top: 40px;
+    margin-left: 40px;
+
+}
+
+.walnut div::before {
+    content: "";
+    width: 9px;
+    height: 9px;
+    background: #0C1A2A;
+    border-radius: 50%;
+    display: block;
+    margin: 0 2px 0 49px;
+
+}
+
+.walnut div::after {
+    content: "";
+    width: 1px;
+    height: 20px;
+    background: #0C1A2A;
+    display: flex;
+    margin: 0 2px 0 52px;
+
+}
