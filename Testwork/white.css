@@ -797,7 +797,7 @@ table {
     color: #000000;
     text-align: left;
     padding-top: 50px;
-    transform: translate(42px, -0px)
+    transform: translate(42px, -0px);
 
 }
 
@@ -812,8 +812,8 @@ table {
 
 }
 
-.willon,
-.willon ol {
+.wilton,
+.wilton ol {
     font-size: 16px;
     line-height: 19px;
     text-decoration-line: underline;
@@ -829,6 +829,7 @@ table {
     color: #242424;
     padding-top: 40px;
     margin-left: 40px;
+    vertical-align: text-top;
 
 }
 
@@ -850,5 +851,124 @@ table {
     background: #0C1A2A;
     display: flex;
     margin: 0 2px 0 52px;
+
+}
+
+.cedar {
+    padding-top: 40px;
+}
+
+.cypress {
+    background: #0C1A2A;
+    height: 408px;
+    row-gap: 95px;
+}
+
+.maple {
+
+    padding: 36px 100px;
+}
+
+.olive {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 21px;
+    color: #868DAC;
+    padding-top: 14px;
+
+}
+
+.juniper,
+.juniper ol,
+.aspen {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    padding-top: 14px;
+}
+
+.olive_tree,
+.olive_tree ol {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    padding-top: 14px;
+}
+
+.yew {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 21px;
+    color: #858CAB;
+    padding-top: 14px;
+
+}
+
+.poplar {
+    text-align: right;
+}
+
+.simply {
+    background: #0C1A2A;
+    width: 470px;
+    height: 40px;
+}
+
+.radish {
+    width: 177px;
+    height: 40px;
+    background: #005BB9;
+    border-radius: 0 6px 6px 0;
+}
+
+.larch,
+.alder,
+.hazel,
+.sequoia,
+.poplar {
+    padding-top: 14px;
+    vertical-align: top;
+}
+
+.alder {
+    vertical-align: text-bottom;
+}
+
+.pepper,
+.pimento,
+.pea {
+    padding-left: 45px;
+    justify-content: center;
+}
+
+.poplar {
+    transform: translate(480px, -293px);
+}
+
+.larch,
+.alder,
+.hazel {
+    margin-right: 21px;
+}
+
+.garlic {
+    transform: translate(283px, -77px);
+}
+.carrot{
+    padding: 99px 16px;
+}
+.the_end{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+   color: #737E9B;
+    transform: translate(95px,-39px);
 
 }

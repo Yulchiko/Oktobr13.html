@@ -1,115 +1,142 @@
-@media screen and (max-width: 360px){
-    .navbar-brand img{
+:root{
+    max-width: 360px;
+}
+@media screen and (max-width: 360px) {
+    .navbar-brand img {
         display: none;
     }
-    .april{
+
+    .april {
 
         padding-left: 150px;
         position: absolute;
 
     }
-    .navbar{
+
+    .navbar {
         padding: 0;
     }
-    .collapse{
-padding-right: 100px;
+
+    .collapse {
+        padding-right: 100px;
         position: relative;
     }
-    .month{
-                padding: 0;
+
+    .month {
+        padding: 0;
         position: relative;
 
     }
-    .frog img{
-        width:135px;
+
+    .frog img {
+        width: 135px;
         height: 47px;
-padding: 0;
+        padding: 0;
 
     }
-    .tuesday img{
+
+    .tuesday img {
         position: absolute;
         margin: 61px -46px;
 
     }
-    .monday{
+
+    .monday {
         text-align: end;
         position: absolute;
         left: 180px;
     }
-    .monday ol{
+
+    .monday ol {
         font-size: 10px;
         line-height: 12px;
-                text-decoration-line: underline;
+        text-decoration-line: underline;
         color: #0F2438;
 
     }
-    .beauteous{
+
+    .beauteous {
         display: flex;
     }
+
     .form-control {
         width: 203px;
         height: 34px;
     }
-    .ocean{
+
+    .ocean {
         margin-top: 70px;
     }
-    .beautiful{
+
+    .beautiful {
         width: 34px;
         height: 34px;
 
 
     }
-    .beautiful img{
+
+    .beautiful img {
         width: 12px;
         height: 12px;
     }
-    .still{
+
+    .still {
         margin: -34px 41px;
     }
-    .cheerful{
+
+    .cheerful {
         padding: 0;
         justify-content: center;
         position: relative;
 
     }
-    .cheerful img{
+
+    .cheerful img {
         width: 290px;
         height: 195px;
     }
-    .comely{
+
+    .comely {
         font-size: 16px;
         line-height: 19px;
         transform: translate(9px, -32px);
     }
-    .comely ol{
+
+    .comely ol {
         font-size: 10px;
         line-height: 12px;
     }
-    .darling{
+
+    .darling {
         width: 124px;
         height: 34px;
     }
-    .dishy img{
+
+    .dishy img {
         width: 68px;
         height: 12px;
         transform: translate(-384px, -98px);
     }
-    .delikate img{
+
+    .delikate img {
         width: 131px;
         height: 111px;
         transform: translate(-270px, 18px);
     }
-    .cute s{
+
+    .cute s {
         font-size: 14px;
         line-height: 16px;
 
     }
-    .charming{
+
+    .charming {
         display: flex;
         flex-direction: column;
 
     }
-    .eyeful{
+
+    .eyeful {
         padding: 0;
         margin-top: 195px;
         overflow: paged-x;
@@ -117,14 +144,16 @@ padding: 0;
         justify-content: flex-end;
 
     }
-    .pleasant{
+
+    .pleasant {
         transform: translate(7px, 581px);
 
 
     }
+
     .lily,
     .peony,
-    .tulip{
+    .tulip {
         width: 320px;
         height: 180px;
         background: #FFFFFF;
@@ -134,82 +163,144 @@ padding: 0;
         margin: 0;
 
     }
-    .daisy{
+
+    .daisy {
         width: 74px;
         height: 97px;
         position: absolute;
 
     }
-    .rose{
+
+    .rose {
         padding: 0;
 
     }
-    .azalea{
+
+    .azalea {
         margin-top: 30px;
         justify-content: center;
     }
-    .sunflower{
+
+    .sunflower {
         width: 164px;
         height: 46px;
 
     }
-    .dandelion{
+
+    .dandelion {
         width: 82px;
         height: 46px;
     }
-    .snowdrop{
+
+    .snowdrop {
         width: 156px;
         height: 46px;
         margin: 0;
     }
-    .water-lilly{
+
+    .water-lilly {
         padding: 0;
         justify-content: center;
     }
-    .bluebell img{
+
+    .bluebell img {
         width: 149px;
         height: 127px;
     }
-    .chamomile{
+
+    .chamomile {
         padding-top: 20px;
     }
-    .lilac{
+
+    .lilac {
         width: 110px;
         height: 35px;
     }
-    .cornflower{
+
+    .cornflower {
         font-size: 12px;
         line-height: 17px;
     }
-    .marigold{
+
+    .marigold {
         margin: 0;
         transform: translate(-99px, 0px);
     }
+
     .cornflower,
     .plumeria,
     .hydrangea,
     .plumeria_flower,
     .hydrangea_flowers,
-    .hyacinth{
+    .hyacinth {
         transform: translate(0px, -70px);
     }
-    .hydrangea_flowers{
+
+    .hydrangea_flowers {
         padding: 0;
 
     }
-    .pansy{
+
+    .pansy {
         transform: translate(59px, -51px);
 
     }
-    .elder{
+
+    .elder {
         padding-top: 20px;
     }
 
+    .cypress {
+        background: #0C1A2A;
+        width: 340px;
+        height: 1036px;
+        text-align: left;
 
+    }
 
+    .maple {
+        padding: 20px;
+    }
 
+    .the_end {
+        transform: translate(8px, -27px);
+    }
 
+    .poplar {
+        transform: translate(-2px, -183px);
+        text-align: left;
 
+    }
 
+    .yew {
+        padding-top: 119px;
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .simply {
+        width: 190px;
+        height: 34px;
+        border: 1px solid #203246;
+    }
+
+    .radish {
+        width: 104px;
+        height: 34px;
+    }
+
+    .carrot {
+        margin-left: -20px;
+    }
+
+    .garlic {
+        margin: 5px -280px;
+    }
+
+    .larch {
+        padding-right: 45px;
+
+    }
 }
+
 
