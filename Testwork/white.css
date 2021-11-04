@@ -50,12 +50,17 @@ table {
     border-spacing: 0;
 }
 
-.wrapper {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
+.circles{
+    width: 7px;
+    height: 7px;
+    background: #0F2438;
+    border-radius: 50%;
+    border-top: 1px solid white;
+    border-bottom:  1px solid white;
+    border-left:  1px solid white;
+    border-right:  1px solid white;
+    transform: translate(5px, -19px);
 }
-
 .navbar-brand {
     padding-left: 100px;
 }
@@ -290,12 +295,48 @@ table {
 
 .dishy {
     position: absolute;
+    margin: 281px 350px;
 
 }
 
-.dishy img {
-    margin: 276px 354px;
+.circles_black {
+    width: 16px;
+    height: 16px;
+    background: black;
+    border-radius: 50%;
+    margin-right: 22px;
 
+}
+
+.circles_radius {
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+    background: white;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-left: 1px solid black;
+    position: relative;
+    margin-right: 22px;
+
+}
+
+.circles_radius::after {
+    content: "";
+    position: absolute;
+    border-radius: 50%;
+    width: 50%;
+    background: white;
+    height: 50%;
+
+}
+
+.circles_white {
+        width: 16px;
+    height: 16px;
+    background:  white;
+    border-radius: 50%;
 }
 
 .delikate img {
@@ -414,7 +455,6 @@ table {
     color: #C2C5DA;
     clear: none;
     margin-right: 10px;
-
 }
 
 
@@ -524,8 +564,6 @@ table {
     color: #0A1A2C;
     padding-top: 10px;
     position: absolute;
-
-
 }
 
 .dahlia ol {
@@ -534,13 +572,11 @@ table {
     line-height: 24px;
     color: #0A1A2C;
     text-align: left;
-
 }
 
 .calla img {
     transform: translate(95px, -109px);
     position: absolute;
-
 }
 
 .violet {
@@ -577,10 +613,34 @@ table {
     transform: translate(123px, -149px);
     position: relative;
 }
+.daffodil{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    border-top: 1px solid darkgrey;
+    border-bottom:  1px solid darkgrey;
+    border-left:  1px solid darkgrey;
+    border-right:  1px solid darkgrey;
+    transform: translate(301px, -272px);
 
-.daffodil img {
+}
+.gladiolus{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: white;
+    border-top: 1px solid darkgrey;
+    border-bottom:  1px solid darkgrey;
+    border-left:  1px solid darkgrey;
+    border-right:  1px solid darkgrey;
+}
+.gladiolus img{
+    margin: 8px 10px;
+}
+.daffodil_image img {
     position: absolute;
-    transform: translate(314px, -275px);
+    transform: translate(317px, -300px);
 }
 
 .button_flowers {
@@ -591,7 +651,6 @@ table {
 .azalea {
     margin-top: 20px;
     justify-content: center;
-
 }
 
 .sunflower {
@@ -655,7 +714,6 @@ table {
     line-height: 25px;
     color: #0A1A2C;
     display: flex;
-
 }
 
 .nasturtium {
@@ -679,8 +737,6 @@ table {
     text-decoration-line: underline;
     color: #005BB9;
     padding-left: 3px;
-
-
 }
 
 .lilac {
@@ -688,21 +744,18 @@ table {
     height: 49px;
     background: url("img/6.jpg") no-repeat center/cover;
     border-radius: 6px;
-
 }
 
 .nasturtium {
     width: 39px;
     height: 20px;
     border-radius: 6px;
-
 }
 
 .hydrangea {
     padding-top: 20px;
     row-gap: 5px;
     align-items: center;
-
 }
 
 .hydrangea_flowers {
@@ -714,7 +767,6 @@ table {
 
 .anemone {
     margin-left: 10px;
-
 }
 
 .clematis {
@@ -730,13 +782,11 @@ table {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-
 }
 
 .marigold {
     align-items: start;
     margin-right: 20px;
-
 }
 
 .plumeria_flower {
@@ -746,7 +796,6 @@ table {
     color: #FFB800;
     display: flex;
     padding-top: 48px;
-
 }
 
 .plumeria_flower ol {
@@ -761,7 +810,6 @@ table {
 .camellia {
     align-items: start;
     margin: 40px 20px;
-
 }
 
 .flowers_end {
@@ -773,12 +821,10 @@ table {
     background: #FFFFFF;
     border: 2px solid #005BB9;
     border-radius: 6px;
-
 }
 
 .beech {
     row-gap: 30px;
-
 }
 
 .pansy {
@@ -798,7 +844,6 @@ table {
     text-align: left;
     padding-top: 50px;
     transform: translate(42px, -0px);
-
 }
 
 .oak {
@@ -809,7 +854,6 @@ table {
     background: #0C1A2A;
     border-radius: 4px;
     margin-bottom: 15px;
-
 }
 
 .wilton,
@@ -830,7 +874,6 @@ table {
     padding-top: 40px;
     margin-left: 40px;
     vertical-align: text-top;
-
 }
 
 .walnut div::before {
@@ -841,7 +884,6 @@ table {
     border-radius: 50%;
     display: block;
     margin: 0 2px 0 49px;
-
 }
 
 .walnut div::after {
@@ -851,7 +893,6 @@ table {
     background: #0C1A2A;
     display: flex;
     margin: 0 2px 0 52px;
-
 }
 
 .cedar {
@@ -865,7 +906,6 @@ table {
 }
 
 .maple {
-
     padding: 36px 100px;
 }
 
@@ -876,7 +916,6 @@ table {
     line-height: 21px;
     color: #868DAC;
     padding-top: 14px;
-
 }
 
 .juniper,
@@ -907,7 +946,6 @@ table {
     line-height: 21px;
     color: #858CAB;
     padding-top: 14px;
-
 }
 
 .poplar {
@@ -960,15 +998,16 @@ table {
 .garlic {
     transform: translate(283px, -77px);
 }
-.carrot{
+
+.carrot {
     padding: 99px 16px;
 }
-.the_end{
+
+.the_end {
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
     line-height: 20px;
-   color: #737E9B;
-    transform: translate(95px,-39px);
-
+    color: #737E9B;
+    transform: translate(95px, -39px);
 }

@@ -9,15 +9,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4361d27-394d-4d89-ba95-e2aa4e91e4e9" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector f.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector g.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/Vector tviter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/kisspng-mastercard-money-foothills-florist-business-visa-visa-mastercard-5b4d917e5dd4a1 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/kr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Testwork/img/strelka.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Workspeed/luda.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Workspeed/luda.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -175,6 +166,8 @@
       <workItem from="1635777528128" duration="13205000" />
       <workItem from="1635853961600" duration="21330000" />
       <workItem from="1635949653329" duration="18804000" />
+      <workItem from="1635971580712" duration="54000" />
+      <workItem from="1636043198247" duration="7325000" />
     </task>
     <task id="LOCAL-00001" summary="imag +">
       <created>1634230896856</created>
@@ -414,7 +407,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635882255087</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="new">
+      <created>1635971610299</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1635971610299</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
