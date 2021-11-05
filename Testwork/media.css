@@ -1,4 +1,9 @@
 @media screen and (max-width: 360px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
     .navbar-brand img {
         display: none;
     }
@@ -15,7 +20,6 @@
     }
 
     .collapse {
-        padding-right: 100px;
         position: relative;
     }
 
@@ -79,6 +83,7 @@
 
     .still {
         margin: -34px 41px;
+        padding: 0;
     }
 
     .cheerful {
@@ -108,20 +113,21 @@
         width: 124px;
         height: 34px;
     }
-    .dishy{
-        margin-top: 171px;
+
+    .dishy {
+        margin: 171px 0 0 0;
     }
 
     .circles_black,
     .circles_radius,
-    .circles_white{
+    .circles_white {
         width: 12px;
         height: 12px
 
     }
 
     .delikate img {
-        width: 131px;
+        max-width: 131px;
         height: 111px;
         transform: translate(-270px, 18px);
     }
@@ -141,51 +147,61 @@
     .eyeful {
         padding: 0;
         margin-top: 195px;
-               display: flex;
-        justify-content: flex-end;
+        display: flex;
 
     }
 
-    .pleasant {
-        transform: translate(7px, 581px);
-
+    .yet {
+        margin: -60px 0 0 118px;
+        padding: 0;
 
     }
 
-    .lily,
-    .peony,
-    .tulip {
+    .graceful {
+        margin: -5px 73px;
+        vertical-align: center;
+    }
+
+    .graceful s {
+        margin: 0;
+        vertical-align: text-bottom;
+    }
+
+    .handsome {
+        transform: translate(57px, -19px);
+
+    }
+
+    .lily {
         width: 320px;
         height: 180px;
-        background: #FFFFFF;
-        border: 1px solid #E1E5F8;
-        border-radius: 6px;
         padding: 0;
         margin: 0;
 
     }
+    .aster{
+        padding: 0;
+    }
+
+
 
     .daisy {
-        width: 74px;
-        height: 97px;
+        width: 64px;
+        height: 87px;
         position: absolute;
-
     }
 
     .rose {
         padding: 0;
-
     }
 
     .azalea {
         margin-top: 30px;
-        justify-content: center;
     }
 
     .sunflower {
-        width: 164px;
+        max-width: 164px;
         height: 46px;
-
     }
 
     .dandelion {
@@ -194,38 +210,53 @@
     }
 
     .snowdrop {
-        width: 156px;
+        max-width: 156px;
         height: 46px;
         margin: 0;
     }
 
     .water-lilly {
         padding: 0;
-        justify-content: center;
+        margin: 0;
     }
 
     .bluebell img {
-        width: 149px;
+        max-width: 149px;
         height: 127px;
     }
 
     .chamomile {
         padding-top: 20px;
+        margin: 0;
     }
 
     .lilac {
-        width: 110px;
+        max-width: 110px;
         height: 35px;
     }
 
-    .cornflower {
+    .cornflower,
+    .cornflower_two{
         font-size: 12px;
         line-height: 17px;
     }
+    .hyacinth_one,
+    .cornflower_two{
+        transform: translate(0px, -5px);
+    }
+    .plumeria_flower{
+        transform: translate(0px, -29px);
+    }
+    .hydrangea_flowers{
+        transform: translate(0px, -15px);
+    }
 
     .marigold {
+        transform: translate(13px, -0px);
+    }
+
+    .button_flowers {
         margin: 0;
-        transform: translate(-99px, 0px);
     }
 
     .cornflower,
@@ -234,17 +265,17 @@
     .plumeria_flower,
     .hydrangea_flowers,
     .hyacinth {
-        transform: translate(0px, -70px);
+        margin: 0;
     }
 
     .hydrangea_flowers {
         padding: 0;
-
     }
 
     .pansy {
-        transform: translate(59px, -51px);
-
+        width: 160px;
+        height: 34px;
+        margin-left: 80px;
     }
 
     .elder {
@@ -254,9 +285,8 @@
     .cypress {
         background: #0C1A2A;
         width: 340px;
-        height: 1036px;
+        height: 1236px;
         text-align: left;
-
     }
 
     .maple {
@@ -268,9 +298,8 @@
     }
 
     .poplar {
-        transform: translate(-2px, -183px);
+        transform: translate(0px, -175px);
         text-align: left;
-
     }
 
     .yew {
@@ -280,27 +309,39 @@
     }
 
     .simply {
-        width: 190px;
+        max-width: 190px;
         height: 34px;
         border: 1px solid #203246;
     }
 
+    .acacia {
+        margin: 0;
+        padding: 0;
+    }
+
+    .walnut {
+        margin: 0;
+    }
+
     .radish {
-        width: 104px;
+        max-width: 91px;
         height: 34px;
+        font-size: 12px;
+        line-height: 14px;
     }
 
     .carrot {
-        margin-left: -20px;
+        margin: 0;
+        transform: translate(0px, -100px);
     }
 
     .garlic {
-        margin: 5px -280px;
+        margin: 0;
+        transform: translate(-129px, 25px)
     }
 
     .larch {
         padding-right: 45px;
-
     }
 }
 

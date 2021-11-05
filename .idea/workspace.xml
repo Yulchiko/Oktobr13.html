@@ -12,6 +12,10 @@
       <change afterPath="$PROJECT_DIR$/Workspeed/luda.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Workspeed/luda.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page 12.png" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page 12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page 13.png" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page 13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page 14.png" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page 14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 1.png" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/img/avt-zap_main_page_v01 (1)йцу 1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testwork/media.css" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/media.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testwork/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/test.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Testwork/white.css" beforeDir="false" afterPath="$PROJECT_DIR$/Testwork/white.css" afterDir="false" />
@@ -167,7 +171,9 @@
       <workItem from="1635853961600" duration="21330000" />
       <workItem from="1635949653329" duration="18804000" />
       <workItem from="1635971580712" duration="54000" />
-      <workItem from="1636043198247" duration="7325000" />
+      <workItem from="1636043198247" duration="7627000" />
+      <workItem from="1636095604762" duration="2595000" />
+      <workItem from="1636098686117" duration="26614000" />
     </task>
     <task id="LOCAL-00001" summary="imag +">
       <created>1634230896856</created>
@@ -414,7 +420,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635971610299</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="new">
+      <created>1636055071706</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1636055071706</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
